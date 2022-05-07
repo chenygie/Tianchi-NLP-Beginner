@@ -75,7 +75,5 @@ tensorflow 版本是 1.x。
 
 
 
-我的文章都会发布在公众号上，欢迎关注我的微信公众号
 
-<div align="center"><img src="https://image.zhangxiann.com/QRcode_8cm.jpg"/></div><br>
 
